@@ -48,7 +48,12 @@ __Planned Analyses/Visualizations__
 - whether winning the physically demanding challenges actually improve one's chance of being the sole survivor
 
 __Coding Challenges__
-- with 76 seasons, there is a lot of data to select from. We need to identify which variables are important in determining results and connections. We need to select which seasons we will use and/or differentiate changes throughout the show's development
+
+- with 76 seasons, there is a lot of data to select from. 
+
+- We need to identify which variables are important in determining results and connections. 
+
+- We need to select which seasons we will use and/or differentiate changes throughout the show's development
 
 - dataset variables and ability to make connections requires a firm understanding of the show and game rules 
 
