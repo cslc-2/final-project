@@ -1,6 +1,6 @@
 ---
 title: "Project Proposal"
-output: githib_document
+output: github_document
 ---
 
 ### Group members:
@@ -9,7 +9,21 @@ Hubert Chang, tc2534
 Natasha Woon, nw2614
 Dominique Tzao, dt2833
 
+### Tentative Project Title:
+
+Outwit, Outplay, Outlast: What Makes a Sole Survivor?
+
+### Motivation 
+
+### Intended Final Products 
+
+Our final product will be an interactive website presenting our research questions, data sources, analyses and plots depicting our results. A dashboard will also be included for people to click through to view specific findings. 
+
+### Anticipated Data Sources
+
 Data source for the project: https://github.com/doehm/survivoR. This is a collection of datasets on various variables from Survivor, such as performance statistics, players, and votes. 
+
+### Planned Timeline
 
 Our planned timeline will be 
 
