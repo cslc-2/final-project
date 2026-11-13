@@ -3,7 +3,12 @@ Project Proposal
 
 ### Group members:
 
-Christina Chen, cc5423 Hubert Chang, tc2534 Natasha Woon, nw2614
+Christina Chen, cc5423
+
+Hubert Chang, tc2534
+
+Natasha Woon, nw2614
+
 Dominique Tzao, dt2833
 
 ### Tentative Project Title:
@@ -35,6 +40,18 @@ Data source for the project: <https://github.com/doehm/survivoR>. This
 is a collection of datasets on various variables from Survivor, such as
 performance statistics, players, and votes.
 
+### Planned Analyses/Visualizations/Coding Challenges
+
 ### Planned Timeline
 
-Our planned timeline will be
+Our planned timeline will be as follows:
+
+- November 9-15: Explore dataset, meet with team, finalize research
+  questions.
+- November 16-22: Meet with teaching team to further discuss project
+  proposal and refine anticipated products. Do data wrangling.
+- November 23-29: Exploratory data analysis and formal statistical
+  analysis. Fill out those portions of the report.
+- November 30-December 6: Building out website and dashboard. Finish
+  report.
+- December 7-12: Final refining and editing. Record the screencast.
