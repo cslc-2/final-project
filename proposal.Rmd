@@ -3,3 +3,15 @@ title: "Project Proposal"
 output: githib_document
 ---
 
+### Group members:
+Christina Chen, cc5423
+Hubert Chang, tc2534
+Natasha Woon, nw2614
+Dominique Tzao, dt2833
+
+
+
+
+
+
+
