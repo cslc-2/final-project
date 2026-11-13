@@ -12,6 +12,16 @@ Outwit, Outplay, Outlast: What Makes a Sole Survivor?
 
 ### Motivation
 
+Survivor is a reality television competition in which contestants must
+navigate complex social relationships, form alliances, compete in
+physical challenges, survive the elements, and make strategic decisions
+to avoid elimination. One sole survivor is crowned each season, and
+players move along the game by avoiding being voted out by their fellow
+survivor players. With more than two decades of game play, the show
+provides an interesting opportunity to examine how voting behavior,
+social dynamics, and individual demographics may be associated with
+success in the game.
+
 ### Intended Final Products
 
 Our final product will be an interactive website presenting our research
