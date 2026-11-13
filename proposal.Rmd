@@ -15,10 +15,11 @@ Outwit, Outplay, Outlast: What Makes a Sole Survivor?
 
 ### Motivation 
 
-Survivor is a reality television competition in which contestants must navigate complex social relationships, form alliances, compete in physical challenges, survive the elements, and make strategic decisions to avoid elimination. One sole survivor is crowned each season, and players move along the game by avoiding being voted out by their fellow survivor players. With more than two decades of game play, the show provides an interesting opportunity to examine how voting behavior, social dynamics, and individual demographics may be associated with success in the game. 
+Survivor is a reality television competition in which contestants must navigate complex social relationships, form alliances, compete in physical challenges, survive the elements, and make strategic decisions to avoid elimination. One sole survivor is crowned each season, and players move along the game by avoiding being voted out by their fellow survivor players. With more than two decades of game play, the show provides an interesting opportunity to examine how voting behavior, social dynamics, and individual demographics may be associated with success in the game.
+
+As our title suggests, we are interested in how players navigate the three core pillars of Survivor: Outwit, Outplay and Outlast. For the Outwit portion, we are interested in understanding whether voting with the majority actually predicts whether or not one would survive the vote. For the outplay portion, we are interested in exploring whether winning the physically demanding challenges actually improve one's chance of being the sole survivor. Lastly, for the outlast portion, we are interested in exploring two things. For one, which strategic and performance characteristics distinguish finalists and winners from other contestants, including voting accuracy, challenge portion, and the frequency of being targeted by other players. For the second part, we are interested in exploring what demographic characteristics, such as age, gender, and occupation influence one's likelihood of becoming sole survivor. 
 
 ### Intended Final Products 
-
 Our final product will be an interactive website presenting our research questions, data sources, analyses and plots depicting our results. A dashboard will also be included for people to click through to view specific findings. 
 
 ### Anticipated Data Sources
