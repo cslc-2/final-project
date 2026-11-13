@@ -34,11 +34,19 @@ Data source for the project: https://github.com/doehm/survivoR. This is a collec
 
 __Planned Analyses/Visualizations__
 - changes of distribution and outcomes throughout 76 seasons, perhaps by location 
+- outcome distribution along the timeline as the season progresses 
+- for finalists and winners, distribution of strategic and performance characteristics 
+- frequency of voting accuracy
+- demographic characteristics, such as age, gender, and occupation influence among likelihood of becoming sole survivor
+- likelihood of winning; whether voting with the majority actually predicts whether or not one would survive the vote
+- whether winning the physically demanding challenges actually improve one's chance of being the sole survivor
 
 __Coding Challenges__
-- with 76 seasons, there is a lot of data to select from. We need to identify which variables are important in determining results and connections 
+- with 76 seasons, there is a lot of data to select from. We need to identify which variables are important in determining results and connections. We need to select which seasons we will use and/or differentiate changes throughout the show's development
 - dataset variables and ability to make connections requires a firm understanding of the show and game rules 
 - challenge to differentiate our project from previous Survivor final projects 
+- creating an interactive website 
+
 
 ### Planned Timeline
 
